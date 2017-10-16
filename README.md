@@ -1,1 +1,1 @@
-SoftaxMobileApp
+softax_app
